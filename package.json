@@ -10,7 +10,7 @@
   "preferGlobal": true,
   "license": "ISC",
   "bin": {
-    "autoAlch": "index.js"
+    "alch": "index.js"
   },
   "dependencies": {
     "robotjs": "^0.2.3",
